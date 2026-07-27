@@ -309,7 +309,6 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 |:-:|:-:|:-:|:-:|:-:|
 | **16+** | **16+** | **21+** | **12+** | **50** |
 
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
