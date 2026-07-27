@@ -10,11 +10,11 @@
 
 <br/>
 
-[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=for-the-badge&color=gold&logo=github)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
+[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/HEBPOLOG/osint-arsenal-leshiy.git)
+[![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/HEBPOLOG/osint-arsenal-leshiy.git)
+[![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/HEBPOLOG/osint-arsenal-leshiy.git)
+[![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/HEBPOLOG/osint-arsenal-leshiy.git)
+[![Stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=for-the-badge&color=gold&logo=github)]((https://github.com/HEBPOLOG/osint-arsenal-leshiy.git))
 
 <br/>
 
