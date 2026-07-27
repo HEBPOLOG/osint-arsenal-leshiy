@@ -29,7 +29,7 @@
 ### ⚡ Get everything in one command
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal && cd awesome-osint-arsenal && sudo bash install.sh
+git clone https://github.com/HEBPOLOG/osint-arsenal-leshiy.git && cd awesome-osint-arsenal && sudo bash install.sh
 ```
 
 ### 🎯 Or pick just what you need
