@@ -1,4 +1,3 @@
-
 # 🔍 AWESOME OSINT ARSENAL
 
 ### The Ultimate Open-Source Intelligence + Security Toolkit
