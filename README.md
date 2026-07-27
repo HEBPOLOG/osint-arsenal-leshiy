@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="assets/osint_arsenal_logo.png" width="1200" alt="OSINT Arsenal"/>
-
-<br/>
 
 # 🔍 AWESOME OSINT ARSENAL
 
@@ -21,8 +16,6 @@
 > **753+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
 >
 > *The most comprehensive OSINT and security toolkit on the internet — every tool with installation instructions or a verified link.*
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
 
