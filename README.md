@@ -72,13 +72,6 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 >
 > **If nobody helps, parts of this list will go stale.** That's just real talk.
 >
-> **How you can help in 30 seconds:**
-> - ⭐ **Star** the repo (more stars = more contributors find it)
-> - 🐛 **Spotted a dead link?** Open an issue, takes 1 minute
-> - 🧩 **Adding a tool?** Skim [CONTRIBUTING.md](CONTRIBUTING.md) first — keeps your PR from getting closed
-> - ☕ [**Buy me a coffee**](https://www.buymeacoffee.com/rawfilejson) so weekends keep going to this
-> - 📢 **Share it** — tweet, Discord, wherever the security crowd hangs out
->
 > If something's broken: **don't just complain — open an issue or PR. That's how this stays useful.**
 
 ---
@@ -3452,11 +3445,6 @@ This repository is provided for **educational and authorized security research p
 <a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
-
-**⭐ Star this repo if you found it useful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/network/members)
 
 <br/>
 
